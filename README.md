@@ -79,4 +79,4 @@ Feel free to contribute by adding new projects, improving existing ones, or fixi
 
 This project is open-source and available under the MIT License.
 
-Happy coding! 🚀 mohammad bin mazi MCA 2nd year 
+Happy coding! 🚀 MOHAMMAD BIN MAZI MCA 2nd year 
